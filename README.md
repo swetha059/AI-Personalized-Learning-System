@@ -1,27 +1,27 @@
-* AI Personalized Learning System
+AI Personalized Learning System
 
 This project is an AI-based personalized learning recommendation system developed using React JS and Python Flask.
 
 Users can select their interests and get personalized course recommendations through API integration.
 
-* Technologies Used
+Technologies Used
 - React JS
 - Python
 - Flask
 - REST API
 - CSS
 
-* Features
+Features
 - Personalized learning recommendations
 - Frontend and backend integration
 - API Integration
 - Interactive user interface
 
-* Project Structure
+Project Structure
 - Frontend: React JS
 - Backend: Flask API
 
-* Future Improvements
+Future Improvements
 - Real AI model integration
 - Database connectivity
 - User authentication
