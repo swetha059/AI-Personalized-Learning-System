@@ -30,9 +30,8 @@ Future Improvements
 
 
 Project Screenshots
-
 Home Page
-![Home Page](home%20page.png)
+![Home Page](homepage.png)
 
 Output Page
-![Output Page](output%20page.png)
+![Output Page](outputpage.png)
