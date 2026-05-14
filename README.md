@@ -27,3 +27,12 @@ Future Improvements
 - User authentication
 - Dynamic recommendations
 
+
+
+Project Screenshots
+
+Home Page
+![Home Page](home%20page.png)
+
+Output Page
+![Output Page](output%20page.png)
