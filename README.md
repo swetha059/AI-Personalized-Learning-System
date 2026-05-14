@@ -28,8 +28,8 @@ Future Improvements
 - Dynamic recommendations
 
 Home Page
-![Home  Page](Home%20page.png)
+![Home Page](homepage.png)
 
 Output Page
-![Output Page](output%20page.png)
+![Output Page](outputpage.png)
 
